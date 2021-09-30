@@ -6,3 +6,7 @@ new day
 
 working on chapter 3
 
+new text
+
+new line
+
